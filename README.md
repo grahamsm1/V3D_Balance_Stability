@@ -7,3 +7,5 @@
  This is my second change
 =======
 >>>>>>> parent of 870a38f... Update README.md
+
+Solution branch
